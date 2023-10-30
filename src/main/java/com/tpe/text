@@ -1,0 +1,6 @@
+web app: front end
+xml code ile calismiyorum .
+configuration class'lar
+implement ed veya extends et, configuration class'i  yalniz birakmaz spring
+servlet requetleri alir --> responce cevirir
+front controllerdir

@@ -2,7 +2,7 @@ package com.tpe;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-// !!! web.xml yerine bu sınıfımızı kullanacağız
+// !!! web.xml yerine bu sınıfımızı kullanacağız(extends edince bu methodlar otomatik geliyor)
 public class WebAppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
     @Override
    // Db ve Hibernate ayalarım için kullanacağım
